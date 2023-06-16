@@ -1,0 +1,5 @@
+- Khái niệm sinh ra để xử lý bất đồng bộ
+- Trước khi có promise thì có callback mà callback thường
+xảy ra callbackhell nó sẽ bị xâu, khó nhìn rối rắm
+- Sinh ra js mới hơn phiên bản Es 6 giúp chúng ta viết code không bị sâu vào
+
